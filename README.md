@@ -1,4 +1,16 @@
+# Spotify Clone :musical_note:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## About the project
+
+This project is a copy of the popular Spotify app, based on [Code With Antonio](https://www.youtube.com/@codewithantonio) tutorial.
+
+## The Stack
+- Next.js + Typescript
+- Tailwind 
+- Supabase
+- Stripe
 
 ## Getting Started
 
